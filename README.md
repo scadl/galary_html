@@ -1,2 +1,4 @@
 # galary_htmlg-en
-Small, but very customiziable app, for building html code of photogallaries. Mainly for highslide js and ucoz hosting.
+Small, but very customiziable app, for building html code of photogallaries. 
+
+Heavily tested on highslide js and ucoz web-hosting.
